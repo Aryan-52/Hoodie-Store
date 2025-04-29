@@ -1,4 +1,4 @@
-# [✨ Hoodie Store ✨]([https://hoodie-store.vercel.app](https://hoodie-store-beta.vercel.app/)
+# [✨ Hoodie Store ✨]([https://hoodie-store.vercel.app](https://hoodie-store-beta.vercel.app/))
 
 A modern and responsive landing page crafted for a hoodie clothing brand. Designed to attract, engage, and convert visitors with a clean and interactive user experience.
 
