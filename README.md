@@ -4,7 +4,7 @@ A modern and responsive landing page crafted for a hoodie clothing brand. Design
 
 ---
 
-![Hoodie Store Preview](.assets/main_page.pngi) <!-- Replace this with your actual image path or URL -->
+![Hoodie Store Preview](Assets/main_page.png) <!-- Replace this with your actual image path or URL -->
 
 ---
 
