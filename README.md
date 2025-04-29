@@ -1,10 +1,10 @@
-# [✨ Hoodie Store ✨]([https://hoodie-store.vercel.app](https://hoodie-store-beta.vercel.app/))
+# [✨ Hoodie Store ✨](https://hoodie-store-beta.vercel.app/)
 
 A modern and responsive landing page crafted for a hoodie clothing brand. Designed to attract, engage, and convert visitors with a clean and interactive user experience.
 
 ---
 
-![Hoodie Store Preview]([./assets/screenshot.png](https://hoodie-store-gmpjm0x23-aryans-projects-2459726a.vercel.app/)) <!-- Replace with your actual path or Vercel-hosted image URL -->
+![Hoodie Store Preview](.assets/main_page.pngi) <!-- Replace this with your actual image path or URL -->
 
 ---
 
@@ -32,7 +32,7 @@ A modern and responsive landing page crafted for a hoodie clothing brand. Design
 
 ## 🔗 Live Preview
 
-👉 [Visit the Site on Vercel]([https://hoodie-store.vercel.app](https://hoodie-store-beta.vercel.app/)
+👉 [Click here to view the site](https://hoodie-store-beta.vercel.app/)
 
 ---
 
